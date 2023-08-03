@@ -1,0 +1,12 @@
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\bin\Debug\net7.0\SistemaInventrio.Utilidades.deps.json
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\bin\Debug\net7.0\SistemaInventrio.Utilidades.dll
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\bin\Debug\net7.0\SistemaInventrio.Utilidades.pdb
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.AssemblyInfo.cs
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.dll
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\refint\SistemaInventrio.Utilidades.dll
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\SistemaInventrio.Utilidades.pdb
+C:\Users\Lios\source\repos\SistemaInventario\SistemaInventrio.Utilidades\obj\Debug\net7.0\ref\SistemaInventrio.Utilidades.dll
